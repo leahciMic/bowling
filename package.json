@@ -1,0 +1,15 @@
+{
+  "name": "bowling",
+  "version": "0.0.0",
+  "description": "",
+  "main": "bowling.js",
+  "scripts": {
+    "test": "npm install && ./node_modules/.bin/mocha specs/"
+  },
+  "author": "Michael Leaney <leahcimic@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^1.21.3"
+  }
+}
