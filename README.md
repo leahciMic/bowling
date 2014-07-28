@@ -1,4 +1,4 @@
-# Bowling Game
+# Bowling Game [![Build Status](https://travis-ci.org/leahciMic/bowling.svg)](https://travis-ci.org/leahciMic/bowling)
 
 DiUS coding test.
 
